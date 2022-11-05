@@ -38,10 +38,6 @@ Body {
     width: 64%;
     height: 78%;
 
-    /*
-        Proporcio de la imatge: 899x1599
-
-    */
 }
 
 .BackPerfil {
@@ -115,7 +111,7 @@ p {
 }
 
 #Idiomes > h2 {
-    font-size: 35px;
+    font-size: 2.5vw;
 }
 
 #Idiomes > ul {
@@ -123,31 +119,26 @@ p {
     margin-right: 7%;
     padding-left: 0;
 
-    text-align: center;
-    font-weight: bold;
-    font-size: 16px;
-}
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 
-#Idiomes > ul > * {
-    margin-right: 3%;
-    margin-left: 3%;
+    font-weight: bold;
 }
 
 #Idiomes > ul > span {
-    display: inline;
-    font-size: calc(0.6vw + 0.8vh);
-
+    font-size: 1.2vw;
+    margin-left: calc(2.7vw + 3.3vh);
 }
 
 #Idiomes > ul > img {
-    display: inline;
     width: calc(3vh + 4vw);
     height: calc(2vh + 2vw);
 }
 
 #Contact {
     padding-top: 6%;
-    font-size: 35px;
+    font-size: 2.5vw;
 }
 
 .SocialMediaLogo {
