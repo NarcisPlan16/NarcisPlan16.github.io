@@ -21,4 +21,4 @@ And also a [PDF format](/doc/CV_Figma.svg) of it.
 
 Color palette used:
 
-![Color palette: ](/doc/Color%20Palette.jpg)
+![Color palette](/doc/Color%20Palette.jpg)
