@@ -28,7 +28,7 @@ and also an SVG format of it:
 ![SVG format](/doc/CV_Figma.svg)
 
 ### Usage
-You can navigate through the tabs on your left side by clicking them. You'll find some direct links and some links that are
+You can navigate through the tabs on your left side by clicking them. You'll find some direct links and some that are
 hided in images which you can click, those are the social media logos.
 
 ### Implementation
