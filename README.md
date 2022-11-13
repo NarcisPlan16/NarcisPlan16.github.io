@@ -20,4 +20,5 @@ Here you have the [Figma design website link](https://www.figma.com/file/E3Pupxr
 And also a [PDF format](/doc/CV_Figma.svg) of it.
 
 Color palette used:
+
 ![Color palette: ](/doc/Color%20Palette.jpeg)
