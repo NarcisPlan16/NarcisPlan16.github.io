@@ -35,6 +35,7 @@ hided in images which you can click, those are the social media logos.
 
 ### Implementation
 You will see that I used a lot of divs, I use it to wrap and divide in order to have low coupling and also for deciding the style of each part seperately.
+
 There is a page for every tab (an html file each one), I put a lot of effort to try to make the web responsive and also 
 accessibility for blind people. 
 
