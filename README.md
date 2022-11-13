@@ -6,16 +6,16 @@ post-it looking tabs.
 
 ### Project analysis
 
-    #### Target user profile
+#### Target user profile
 The target of this page are enterprises which are looking for some candidates to a job offer. They expect to find information
 relative to my studies, job history and achievements. Also for some soft and hard skills, which depend on what they are 
 searching for.
 
-    #### Information architecture
+#### Information architecture
 As we have a single-page website format, there is no much architecture. The main page is the *index.html* and forim there 
 (and the ther secctions/pages) you can access to the other sections. There is no hierarchy.
 
-    #### Visual design
+#### Visual design
 Afer doing some research i decided to use a plain and simple color palette, no gradients. 
 
 Color palette used:
