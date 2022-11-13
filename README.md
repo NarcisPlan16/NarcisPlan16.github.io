@@ -4,6 +4,8 @@ This is the repository of my online-web CV
 I wanted to implement a simple but user-friendly webpage for my CV so I decided to shape it like a notebook with some 
 post-it looking tabs. 
 
+Note that the web page has an icon on the tab.
+
 ### Project analysis
 
 #### Target user profile
@@ -28,7 +30,7 @@ and also an SVG format of it:
 ![SVG format](/doc/CV_Figma.svg)
 
 ### Usage
-You can navigate through the tabs on your left side by clicking them. You'll find some direct links and some links that are
+You can navigate through the tabs on your left side by clicking them. You'll find some direct links and some that are
 hided in images which you can click, those are the social media logos.
 
 ### Implementation
