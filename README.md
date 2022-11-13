@@ -16,8 +16,8 @@ accessibility for blind people.
 There is a lot more I would like to improve but I couldn't for lack of time. 
 
 ### Sources
-Here you have the [Figma design website link](https://www.figma.com/file/E3Pupxr4WfVBsd0HfZVFN3/CV?node-id=0%3A1).
-And also a [PDF format](/doc/CV_Figma.svg) of it.
+Here you have the [Figma design website link](https://www.figma.com/file/E3Pupxr4WfVBsd0HfZVFN3/CV?node-id=0%3A1) 
+and also a [PDF format](/doc/CV_Figma.svg) of it.
 
 Color palette used:
 
