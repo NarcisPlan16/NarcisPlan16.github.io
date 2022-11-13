@@ -23,9 +23,9 @@ Color palette used:
 
 Once I had the color palette decided, I proceeded with the design layout:
 Here you have the [Figma design website link](https://www.figma.com/file/E3Pupxr4WfVBsd0HfZVFN3/CV?node-id=0%3A1)
-and also an SVG format of it 
+and also an SVG format of it: 
 
-![SVG format](/doc/CV_Figma.svg).
+![SVG format](/doc/CV_Figma.svg)
 
 ### Usage
 You can navigate through the tabs on your left side by clicking them. You'll find some direct links and some links that are
