@@ -16,9 +16,9 @@ As we have a single-page website format, there is no much architecture. The main
 (and the ther secctions/pages) you can access to the other sections. There is no hierarchy.
 
 #### Visual design
-Afer doing some research i decided to use a plain and simple color palette, no gradients. 
-
+Afer doing some research i decided to use a plain and simple color palette, no gradients.
 Color palette used:
+
 <img src="/doc/Color-Palette.jpg" width="650" alt="Color palette"/>
 
 Once I had the color palette decided, I proceeded with the design layout:
