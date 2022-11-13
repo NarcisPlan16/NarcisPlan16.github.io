@@ -14,7 +14,7 @@ relative to my studies, job history and achievements. Also for some soft and har
 searching for.
 
 #### Information architecture
-As we have a single-page website format, there is no much architecture. The main page is the *index.html* and forim there 
+As we have a single-page website format, there is no much architecture. The main page is the *index.html* and from there 
 (and the ther secctions/pages) you can access to the other sections. There is no hierarchy.
 
 #### Visual design
